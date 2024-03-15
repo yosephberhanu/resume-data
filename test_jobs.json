@@ -1,0 +1,43 @@
+[
+      {
+        id: 1,
+        job_name:'Project Manager',
+        job_description:`"Job Overview:
+We are seeking a Residential Construction Project Manager for high end new builds and remodeling projects. The candidate should be very experienced, personable, and proactive team leader.
+
+Responsibilities:
+- Provide project planning, resource and time management.
+- Create benchmarks for labor resources and maintain budget and scope of work for multiple projects.
+- Run several projects at one time.
+- Ensure all work is done on time and within budget.
+- Strategic planning of material procurement and labor activities.
+- Consistently inform staff of project details and evaluate project plan effectiveness.
+
+Duties and Job Duties:
+- Use project scope of work to determine the best plan to complete tasks effectively.
+- Coordinate material procurement and manage construction schedule and activities.
+- Ensure work is done in compliance with building and safety codes.
+- Manage subcontractor and supplier relationships.
+- Maintain quality execution and keep job clean and orderly.
+- Coordinate efforts across the entire project between various parties.
+- Inspect deliveries and workmanship in detail.
+- Communicate with contractors and suppliers for timely completion of work.
+- Resolve construction and budget issues with creative problem-solving.
+- Adhere to site policies, safety, and cleanliness standards.
+- Provide regular communication with homeowners to inform them of progress.
+
+Educational Requirements or Preferred Qualifications:
+- Bachelor‚Äôs degree preferred.
+- 3-6 years of experience in project management within construction.
+- Comfortable reading and understanding blueprints and drawings.
+- Proficient in Microsoft Office and general computer software.
+- Strong leadership and management skills.
+- High School diploma or GED required, Bachelor‚Äôs degree a plus."`
+      },
+      {
+        id: 2,
+        job_name:'Job 2',
+        job_description:'Job 2 This has made it the go-to solution for: small businesses solo entrepreneurs with limited budgets teams with little or no technical know-how and teams seeking to quickly prototype a product. How these teams use Google Spreadsheets could range from the basic data organization to being the persistence layer in a product. When used as a database, the common dilemma had always been how to display data from Google Spreadsheet on a website. If you are reading this then you are probably in that muddle.This article will help you get unstuck. It will demonstrate how to pull data from a Google Spreadsheet to HTML and to begin, let’s start-off with the one question that matters.',
+        summary:'This has made it the go-to solution for: small businesses solo entrepreneurs with limited budgets teams'
+      }
+    ]
